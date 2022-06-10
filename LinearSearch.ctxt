@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LinearSearch
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=ele\ n
+comment3.target=int\ linearSearch(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

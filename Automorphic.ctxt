@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Automorphic
+comment1.params=lim
+comment1.target=Automorphic(int)
+comment2.params=nt
+comment2.target=int\ digitCount(int)
+comment3.params=num
+comment3.target=boolean\ isAutomorphic(int)
+comment4.params=
+comment4.target=void\ generate()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

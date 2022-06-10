@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ArrayOprn
+comment1.params=nn
+comment1.target=ArrayOprn(int)
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=n
+comment4.target=int\ getSum(int)
+comment5.params=n\ min
+comment5.target=int\ getMin(int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

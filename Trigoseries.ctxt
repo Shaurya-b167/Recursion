@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trigoseries
+comment1.params=
+comment1.target=void\ input()
+comment2.params=x\ n
+comment2.target=double\ power(double,\ int)
+comment3.params=n
+comment3.target=int\ factorial(int)
+comment4.params=
+comment4.target=double\ sumSeries()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

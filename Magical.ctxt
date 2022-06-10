@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Magical
+comment1.params=
+comment1.target=void\ input()
+comment2.params=n
+comment2.target=int\ digitSum(int)
+comment3.params=n
+comment3.target=boolean\ isMagical(int)
+comment4.params=
+comment4.target=void\ generate()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

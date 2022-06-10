@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NaturalSeries
+comment1.params=nn
+comment1.target=NaturalSeries(int)
+comment2.params=n
+comment2.target=int\ naturalSum(int)
+comment3.params=
+comment3.target=void\ seriesWithSum()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

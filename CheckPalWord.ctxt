@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CheckPalWord
+comment1.params=s
+comment1.target=CheckPalWord(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String\ reverse(java.lang.String)
+comment3.params=
+comment3.target=boolean\ isPalindrome()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
